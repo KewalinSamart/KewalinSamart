@@ -1,5 +1,5 @@
 ### Hi there 👋 Thanks for stopping by!😊 
-My name is **Kewalin Samart** (*she/her/hers*), a UG student in Comp Math & CMSE 🧬💻📈 at Michigan State U. 
+My name is **[Kewalin Samart](https://kewalinsamart.github.io/curriculum-vitae/Kewalin_Samart_CV.pdf)** (*she/her/hers*), a UG student in Comp Math & CMSE 🧬💻📈 at Michigan State U. 
 
 Apart from eating and coding, I love to sing, listen to [music](https://open.spotify.com/user/315dix5kcufxwq2s6bnoyu2x4lui?si=af4402b9d54e464d), and watch K-dramas 💕.
 
