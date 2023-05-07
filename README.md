@@ -1,7 +1,8 @@
-### Hi there 👋 Thanks for stopping by!😊 
-My name is **[Kewalin Samart](https://kewalinsamart.github.io/curriculum-vitae/Kewalin_Samart_CV.pdf)** (*she/her/hers*), a UG student in Comp Math & CMSE 🧬💻📈 at Michigan State U. 
+### Hi there 👋 😊 
+My name is **Kewalin Samart** (*she/her/hers*), a Ph.D. student in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
+I earned a B.Sc. in Computational Mathematics from Michigan State U. in 2022. My research interest includes Computational and Statistical Genomics with a focus on method development. 
 
-Apart from eating and coding, I love to sing, listen to [music](https://open.spotify.com/user/315dix5kcufxwq2s6bnoyu2x4lui?si=af4402b9d54e464d), and watch [K-dramas](https://instagram.com/hospitalplaylist_official?utm_medium=copy_link) 💕.
+Apart from doing science and coding, I love to hike 🥾🏔, bike 🚲, sing, and listen to music 💕.
 
 
 ### ✉️ Find me on:
@@ -12,10 +13,10 @@ Apart from eating and coding, I love to sing, listen to [music](https://open.spo
 <a href="https://www.twitter.com/KewalinSamart"> <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-8192.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
   
 </p>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KewalinSamart)
 
-<!--
+
 **KewalinSamart/KewalinSamart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
