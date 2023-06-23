@@ -13,7 +13,7 @@ Apart from doing science and coding, I love to hike 🥾🏔, bike 🚲, sing, l
  <a href="https://linkedin.com/in/kewalinsamart" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kewalin.samart@cuanschutz.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.twitter.com/KewalinSamart"> <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-8192.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
-  
+<a href="https://medium.com/@KewalinSamart"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KewalinSamart)
