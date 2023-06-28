@@ -5,11 +5,12 @@ I earned a B.Sc. in Computational Mathematics from Michigan State University in 
 Apart from doing science and coding, I love to hike 🥾🏔, bike 🚲, sing, listen to music 💕, and walk Coco 🐕, a cute little Goldendoodle boy.
 
 ### Meet [Coco](https://www.instagram.com/poco.locococo/) 🤗 👀
-<img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco1.jpg width="400"> <img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco2.jpg width="400">
+<img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco1.jpg width="300"> <img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco2.jpg width="300">
 
 ### ✉️ Find me on:
 
 <p align="left">
+<a href="https://scholar.google.com/citations?hl=en&user=e2QIJJYAAAAJ"> <img src="https://static-00.iconduck.com/assets.00/google-scholar-square-icon-511x512-eoqcavm0.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="https://linkedin.com/in/kewalinsamart" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kewalin.samart@cuanschutz.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.twitter.com/KewalinSamart"> <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-8192.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
