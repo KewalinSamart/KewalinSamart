@@ -1,6 +1,6 @@
 ### Hi there 👋 😊 
 My name is [**Kewalin Samart**](https://kewalinsamart.github.io/curriculum-vitae/Kewalin_Samart_CV.pdf) (*she/her/hers*), a Ph.D. student in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
-I earned a B.Sc. in Computational Mathematics from Michigan State University in 2022. My research interest includes Computational and Statistical Genomics with a focus on method development. 
+I earned a B.Sc. in Computational Mathematics from Michigan State University in 2022. My research interests include Computational and Statistical Genomics with a focus on method development. I am currently developing and applying machine learning approaches to discover novel therapeutic indications for infectious diseases.  
 
 Apart from doing science and coding, I love to hike 🥾🏔, bike 🚲, sing, listen to music 💕, and walk Coco 🐕, a cute little Goldendoodle boy.
 
