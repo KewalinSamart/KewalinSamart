@@ -1,10 +1,10 @@
 ### Hi there 👋 😊 
-My name is [**Kewalin Samart**](https://docs.google.com/document/d/1WfGTvxQIffEiaUWoxLmgnJuNBPIa6KFiZGlaY7NcjM8/edit?usp=sharing) (*she/her/hers*), a Ph.D. student in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
+My name is [**Kewalin Samart**](https://docs.google.com/document/d/1WfGTvxQIffEiaUWoxLmgnJuNBPIa6KFiZGlaY7NcjM8/edit?usp=sharing) (*she/her/hers*). I am Ph.D. candidate in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
 I earned a B.Sc. in Computational Mathematics from Michigan State University in 2022. My research interests include Computational and Statistical Genomics with a focus on method development. I am currently developing machine learning approaches to discover novel therapeutic indications for infectious diseases.  
 
 Apart from doing science and coding, I love to swim 💦, hike 🥾🏔, bike 🚲, sing, listen to music 💕, and walk Coco 🐕, a cute little Goldendoodle boy.
 
-### Meet [Coco](https://www.instagram.com/poco.locococo/) 🤗 👀
+### Meet [Coco](https://www.instagram.com/lifeofcocodoodle2021/) 🤗 👀
 <img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco1.jpg width="300"> <img src=https://github.com/KewalinSamart/KewalinSamart/blob/6be288418cac1f7488364fda03e250b39058bc11/pics/Coco2.jpg width="300">
 
 ### ✉️ Find me on:
