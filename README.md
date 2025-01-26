@@ -1,6 +1,6 @@
 ### Hi there 👋 😊 
-My name is [**Kewalin Samart**](https://docs.google.com/document/d/1WfGTvxQIffEiaUWoxLmgnJuNBPIa6KFiZGlaY7NcjM8/edit?usp=sharing) (*she/her/hers*). I am Ph.D. candidate in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
-I earned a B.Sc. in Computational Mathematics from Michigan State University in 2022. My research interests include Computational and Statistical Genomics with a focus on method development. I am currently developing machine learning approaches to discover novel therapeutic indications for infectious diseases.  
+My name is [**Kewalin Samart**](https://kewalinsamart.github.io/curriculum-vitae/Kewalin_Samart_CV.pdf) (*she/her/hers*). I am a Ph.D. candidate in Computational Bioscience 🧬💻📈 at University of Colorado School of Medicine.
+I earned a B.Sc. in Computational Mathematics from Michigan State University in 2022. I am currently developing machine learning models to discover novel therapeutic indications for infectious diseases.  
 
 Apart from doing science and coding, I love to swim 💦, hike 🥾🏔, bike 🚲, sing, listen to music 💕, and walk Coco 🐕, a cute little Goldendoodle boy.
 
@@ -16,6 +16,7 @@ Apart from doing science and coding, I love to swim 💦, hike 🥾🏔, bike �
 <a href="https://www.twitter.com/KewalinSamart"> <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-8192.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 <a href="https://medium.com/@KewalinSamart"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KewalinSamart)
 
