@@ -10,7 +10,7 @@ Apart from doing science and coding, I love to swim 💦, hike 🥾🏔, bike �
 ### ✉️ Find me on:
 
 <p align="left">
-<a href="https://scholar.google.com/citations?hl=en&user=e2QIJJYAAAAJ"> <img src="https://static-00.iconduck.com/assets.00/google-scholar-square-icon-511x512-eoqcavm0.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+<a href="https://scholar.google.com/citations?hl=en&user=e2QIJJYAAAAJ"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="https://linkedin.com/in/kewalinsamart" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kewalin.samart@cuanschutz.edu"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.twitter.com/KewalinSamart"> <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-8192.png" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
